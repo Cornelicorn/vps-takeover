@@ -1,0 +1,4 @@
+enable systemd-resolved.service
+enable ssh.service
+enable sshd.service
+enable systemd-networkd.service
